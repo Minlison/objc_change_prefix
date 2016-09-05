@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# 源文件 https://github.com/fsamuel-bs/objc_prefix_changer.git
 #CLOSE XCODE BEFORE RUNNING THE SCRIPT. IT ALSO HAS GIT PRIVELEGES AND MESSES UP 
 # GIT MV EXECUTED IN THIS PROJECT
 
